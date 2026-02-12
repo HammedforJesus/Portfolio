@@ -5,32 +5,32 @@ const Portfolio = () => {
     {
       id: 1,
       title: "Event Design",
-      link: "/public/event.png",
-      image: "/public/event.png",
+      link: "event.png",
+      image: "event.png",
     },
     {
       id: 2,
       title: "Culture Heritage Design",
-      link: "/public/Culture.png",
-      image: "/public/Culture.png",
+      link: "Culture.png",
+      image: "Culture.png",
     },
     {
       id: 3,
       title: "Febraury Design",
-      link: "/public/Febrary.png",
-      image:  "/public/Febrary.png",
+      link: "Febrary.png",
+      image:  "Febrary.png",
     },
     {
       id: 4,
       title: "Sport Design",
-      link: "/public/Main.png",
-      image: "/public/Main.png",
+      link: "Main.png",
+      image: "Main.png",
     },
     {
       id: 5,
       title: "Travel Agency Design",
-      link: "/public/island new.png",
-      image: "/public/island new.png",
+      link: "island new.png",
+      image: "island new.png",
     },
     
   ];
